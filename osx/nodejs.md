@@ -1,6 +1,7 @@
 ## nodejs环境
-	
+**现在推荐 [n](#https://github.com/tj/n), 用法类似，坑少一点**
 nvm是管理nodejs的工具，可以在一台机器上安装多个不同版本的nodejs
+
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -13,7 +14,7 @@ nvm是管理nodejs的工具，可以在一台机器上安装多个不同版本�
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-### Install nvm ( Recommend `n`)
+### Install nvm
 ```	
 brew install nvm
 ```

@@ -34,9 +34,10 @@ sublime作为优秀的编辑器，建议所有的文本编辑都使用该编辑�
 作为程序员，必须安装的代码版本控制工具
 
 ### [Nodejs](../osx/nodejs.md)
+主要是版本控制
 
 ### [Docker](../osx/docker.md)
-
+本地开发最佳实践（个人认为）
 
 ### [Tool](../osx/tool.md)
 主要是提升开发和测试的辅助工具，包括抓包工具、rest请求工具等
@@ -45,5 +46,4 @@ sublime作为优秀的编辑器，建议所有的文本编辑都使用该编辑�
 SSH 介绍
 
 ### [Shadowsocks](../osx/ss.md)
-
 Searching on github, u can find it
