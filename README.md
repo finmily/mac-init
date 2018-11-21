@@ -1,6 +1,6 @@
-## OSX ENV
+## OSX ENV (强烈推荐作为公司的入门指引！！！)
 
-网上的大多都比较散，整理一份。定时更新
+网上的大多都比较散，整理一份。**定时更新**
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
