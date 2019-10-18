@@ -51,7 +51,7 @@ plugins=(git autojump extract osx sublime brew-cask copydir copyfile git-extras 
 + zsh-autosuggestions : 自动补全工具 
 
 ```
-brew install autojump wget tree 
+brew install autojump wget tree zsh-autosuggestions
 ```
 
 作为开发人员，在osx下开发，必须掌握敲命令的能力。以上的一些基础工具能提高效率，非常建议
